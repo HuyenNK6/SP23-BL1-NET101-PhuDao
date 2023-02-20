@@ -1,0 +1,8 @@
+D:\FPT Polytechnic\FPL-3. SP 2023\8. Tutor\1.NET101_PhuDao\NET101_Phu_Dao\Buoi_3\bin\Debug\Buoi_3.exe.config
+D:\FPT Polytechnic\FPL-3. SP 2023\8. Tutor\1.NET101_PhuDao\NET101_Phu_Dao\Buoi_3\bin\Debug\Buoi_3.exe
+D:\FPT Polytechnic\FPL-3. SP 2023\8. Tutor\1.NET101_PhuDao\NET101_Phu_Dao\Buoi_3\bin\Debug\Buoi_3.pdb
+D:\FPT Polytechnic\FPL-3. SP 2023\8. Tutor\1.NET101_PhuDao\NET101_Phu_Dao\Buoi_3\obj\Debug\Buoi_3.csproj.AssemblyReference.cache
+D:\FPT Polytechnic\FPL-3. SP 2023\8. Tutor\1.NET101_PhuDao\NET101_Phu_Dao\Buoi_3\obj\Debug\Buoi_3.csproj.SuggestedBindingRedirects.cache
+D:\FPT Polytechnic\FPL-3. SP 2023\8. Tutor\1.NET101_PhuDao\NET101_Phu_Dao\Buoi_3\obj\Debug\Buoi_3.csproj.CoreCompileInputs.cache
+D:\FPT Polytechnic\FPL-3. SP 2023\8. Tutor\1.NET101_PhuDao\NET101_Phu_Dao\Buoi_3\obj\Debug\Buoi_3.exe
+D:\FPT Polytechnic\FPL-3. SP 2023\8. Tutor\1.NET101_PhuDao\NET101_Phu_Dao\Buoi_3\obj\Debug\Buoi_3.pdb
